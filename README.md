@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on restart my carrier <br>👯 I’m looking to collaborate on Program related job or Cloud computing<br>🤝 I’m looking for help with learning new things<br>🌱 I’m currently learning AWS Cloud computing foundation <br>💬 Ask me about Plants or Coding<br>⚡ Fun fact : Tring to be more Fun person
+🔭 I’m currently working on restart my carrier <br>👯 I’m looking to collaborate on Program related job or Cloud computing<br>🤝 I’m looking for help with learning new things<br>🌱 I’m currently learning AWS Cloud computing foundation <br>💬 Ask me about Plants or Coding<br>⚡ Fun fact : To be more Fun person
 
 
 ## 🌐 Socials:

@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on restart my carrier <br>👯 I’m looking to collaborate on Program related job or Cloud computing<br>🤝 I’m looking for help with learning new things<br>🌱 I’m currently learning AWS Cloud computing foundation <br>💬 Ask me about Plants or Coding<br>⚡ Fun fact : To be more Fun person
+🔭 At this moment, I'm wholeheartedly committed to reigniting my career path with fervor.<br>
+👯 I'm eagerly searching for opportunities to collaborate on dynamic programming projects or delve into the intricacies of cloud computing.<br>
+🤝 I'm actively seeking mentorship and support to navigate the ever-evolving landscape of learning.<br>
+🌱 Currently, I'm deeply engrossed in honing my skills in AWS cloud computing, laying a robust foundation for future endeavors.<br>
+💬 Feel free to engage me in stimulating conversations about the wonders of plants or the intricacies of coding!<br>
+⚡ Fun fact: I'm on a personal mission to sprinkle a little extra joy into every interaction and experience.<br>
+
+
 
 
 ## 🌐 Socials:
@@ -42,7 +49,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+🔭 I’m currently working on restart my carrier <br>👯 I’m looking to collaborate on Program related job or Cloud computing<br>🤝 I’m looking for help with learning new things<br>🌱 I’m currently learning AWS Cloud computing foundation <br>💬 Ask me about Plants or Coding<br>⚡ Fun fact : To be more Fun person
 Links for theme
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 https://github.com/anuraghazra/github-readme-stats/tree/master

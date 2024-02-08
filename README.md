@@ -10,9 +10,9 @@
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=revathiharin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> &hide=contribs,prs-->
-![](https://github-readme-stats.vercel.app/api?username=revathiharin&show_icons=true&theme=buefy&hide=stars,issues)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=revathiharin&theme=aura)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=revathiharin&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=revathiharin&show_icons=true&theme=buefy&hide=stars,issues&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=revathiharin&theme=aura&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=revathiharin&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=revathiharin&repo=PythonTraining&cache_seconds=86400&theme=flag-india) -->
 
 ## 🏆 GitHub Trophies
@@ -44,4 +44,5 @@ Here are some ideas to get you started:
 
 Links for theme
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+https://github.com/anuraghazra/github-readme-stats/tree/master
 -->

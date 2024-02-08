@@ -6,9 +6,6 @@
 💬 Feel free to engage me in stimulating conversations about the wonders of plants or the intricacies of coding!<br>
 ⚡ Fun fact: I'm on a personal mission to sprinkle a little extra joy into every interaction and experience.<br>
 
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/revathi-hariharasubramanian/) 
 
@@ -17,11 +14,10 @@
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=revathiharin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> &hide=contribs,prs-->
-![](https://github-readme-stats.vercel.app/api?username=revathiharin&show_icons=true&theme=aura&hide=stars,issues&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=revathiharin&show_icons=true&theme=aura&hide=stars,issues&hide_border=true&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=revathiharin&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=revathiharin&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_progress=true)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=revathiharin&repo=PythonTraining&cache_seconds=86400&theme=flag-india) -->
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=revathiharin&&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&column=10&margin-w=15&margin-h=15&margin-h=15&theme=onedark)

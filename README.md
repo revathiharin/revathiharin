@@ -12,8 +12,9 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=revathiharin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> &hide=contribs,prs-->
 ![](https://github-readme-stats.vercel.app/api?username=revathiharin&show_icons=true&theme=buefy&hide=stars,issues&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=revathiharin&theme=aura&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=revathiharin&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=revathiharin&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_progress=true)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=revathiharin&repo=PythonTraining&cache_seconds=86400&theme=flag-india) -->
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=revathiharin&&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&column=10&margin-w=15&margin-h=15&margin-h=15&theme=onedark)

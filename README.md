@@ -16,7 +16,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=revathiharin&repo=PythonTraining&cache_seconds=86400&theme=flag-india) -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=revathiharin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=revathiharin&&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&column=10&margin-w=15&margin-h=15&margin-h=15&theme=onedark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)

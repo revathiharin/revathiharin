@@ -18,7 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=revathiharin&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=revathiharin&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_progress=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=revathiharin&repo=PythonTraining&cache_seconds=86400&theme=flag-india) -->
-
+![](https://github-readme-stats-ml.vercel.app/api/top-langs/?username=revathiharin&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_progress=false)<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=revathiharin&&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&column=10&margin-w=15&margin-h=15&margin-h=15&theme=onedark)
 

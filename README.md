@@ -13,16 +13,10 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MS SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MS SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white) 
 
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=revathiharin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> &hide=contribs,prs-->
-![](https://github-readme-stats.vercel.app/api?username=revathiharin&show_icons=true&theme=aura&hide=stars,issues&hide_border=true&include_all_commits=true)<br/>
+
+![](https://github-readme-stats-ml.vercel.app/api?username=revathiharin&show_icons=true&theme=aura&hide=stars,issues&hide_border=true&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=revathiharin&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats-ml.vercel.app/api/top-langs/?username=revathiharin&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10&hide_progress=false&exclude_repo=github-readme-stats_Copy,github_Readme_Stats_ML)<br/>
-<!-- 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=revathiharin&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10&hide_progress=false&exclude_repo=github-readme-stats_Copy,github_Readme_Stats_ML)<br/>
-![](https://github-readme-stats.vercel.app/api/pin/?username=revathiharin&repo=PythonTraining&cache_seconds=86400&theme=flag-india)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=revathiharin&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_progress=false&exclude_repo=github-readme-stats_Copy,github_Readme_Stats_ML)<br/>
-
--->
 
 
 ## 🏆 GitHub Trophies
@@ -56,3 +50,10 @@ Links for theme
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 https://github.com/anuraghazra/github-readme-stats/tree/master
 -->
+<!-- TRY for Cards reference
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=revathiharin&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10&hide_progress=false&exclude_repo=github-readme-stats_Copy,github_Readme_Stats_ML)<br/>
+![](https://github-readme-stats.vercel.app/api/pin/?username=revathiharin&repo=PythonTraining&cache_seconds=86400&theme=flag-india)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=revathiharin&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_progress=false&exclude_repo=github-readme-stats_Copy,github_Readme_Stats_ML)<br/>
+
+-->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=revathiharin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> &hide=contribs,prs-->

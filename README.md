@@ -26,7 +26,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=revathiharin&icon=4&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=revathiharin&icon=4&color=1)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

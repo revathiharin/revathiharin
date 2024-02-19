@@ -1,0 +1,6 @@
+#https://github.com/github/gitignore
+.vscode
+*.exe
+bin
+obj
+.DS_Store

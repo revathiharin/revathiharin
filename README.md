@@ -20,7 +20,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=revathiharin&&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&column=10&margin-w=15&margin-h=15&margin-h=15&theme=onedark)
+![](https://github-profile-trophy-private.vercel.app/?username=revathiharin&&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&column=10&margin-w=15&margin-h=15&margin-h=15&theme=onedark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)

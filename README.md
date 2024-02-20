@@ -16,7 +16,7 @@
 
 ![](https://github-readme-stats-ml.vercel.app/api?username=revathiharin&show_icons=true&theme=aura&hide=stars,issues&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=revathiharin&theme=aura&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats-ml.vercel.app/api/top-langs/?username=revathiharin&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_progress=false&exclude_repo=github-readme-stats_Copy,github_Readme_Stats_ML,github-profile-trophy-private,github-profile-trophy_copy,42-Piscine-Copy-Preparation)<br/>
+![](https://github-readme-stats-ml.vercel.app/api/top-langs/?username=revathiharin&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_progress=false&exclude_repo=github-readme-stats_Copy,github_Readme_Stats_ML,github_profile_trophy_private,github-profile-trophy_copy,42-Piscine-Copy-Preparation)<br/>
 
 
 ## 🏆 GitHub Trophies
